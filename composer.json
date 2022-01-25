@@ -23,7 +23,7 @@
     "license": "GPL-2.0-or-later",
     "require": {
         "ext-Phar": "*",
-        "php": ">=5.5.0 <7.3",
+        "php": ">=5.5.0 <7.4",
         "helhum/typo3-console-plugin": "^1.7.5 || ^2.0.2",
 
         "typo3/cms-backend": "^7.6 || ^8.7",
